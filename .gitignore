@@ -1,0 +1,11 @@
+.idea/
+__pycache__/
+.ipynb_checkpoints
+
+data/ann_files
+data/crash_course_files
+data/cnn_files
+data/nlp_files
+data/rnn_files
+
+models
